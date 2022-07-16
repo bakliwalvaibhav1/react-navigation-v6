@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "rainbowapp",
-    "slug": "rainbowapp",
+    "name": "react-navigation-v6",
+    "slug": "react-navigation-v6",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
