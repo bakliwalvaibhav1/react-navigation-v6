@@ -5,7 +5,7 @@ Side Drawer + Bottom Tabs + Stack Navigation in one single application.
 ## Tech Stack
 
 - React Native
-- React Navigation V6
+- React Navigation v6
 - Expo
 
 ## Demo
